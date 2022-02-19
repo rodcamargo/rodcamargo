@@ -1,7 +1,7 @@
 # Olá Mundo!!!
 
  
-[![rodcamargo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodcamargo&theme=radical)](https://github.com/rodcamargo/github-readme-stats)
+[![rodcamargo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodcamargo&show_icons=true&theme=tokyonight)](https://github.com/rodcamargo/github-readme-stats)
 
 
 ## About me
