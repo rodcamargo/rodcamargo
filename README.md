@@ -1,8 +1,8 @@
 # Olá Mundo!!!
 
  
+[![rodcamargo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodcamargo)](https://github.com/rodcamargo/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodcamargo&layout=compact)](https://github.com/rodcamargo/github-readme-stats)
 
 ## About me
 
